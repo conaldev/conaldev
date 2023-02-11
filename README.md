@@ -13,7 +13,7 @@
 [<img align="left" alt="leetcode" width="36px" height="36px" src="icons/leetcode.png" />](https://leetcode.com/ConalDev/)
 <br /><br /><br />
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/conaldev"><img src="https://github.com/conaldev/conaldev/blob/master/devcard.svg" width="400" alt="conaldev's Dev Card"/></a>
 
 
 <!--
