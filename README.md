@@ -15,8 +15,8 @@
 
 <br /><br />
 
-(my old website - will update soon)
-https://conaldev.github.io/
+
+https://minhconal.notion.site/
 
 
 <!--
