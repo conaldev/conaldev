@@ -5,8 +5,8 @@
 <br /><br />
 [<img align="left" alt="gmail" width="36px" height="36px"  src="icons/gmail.png"/>](mailto:conaldeveloper@gmail.com)
 [<img align="left" alt="linkedin" width="36px" height="36px" src="icons/in.png" />](https://www.linkedin.com/in/minhconaldds/)
-[<img align="left" alt="hackerrank" width="36px" height="36px" src="icons/HackerRank.png" />](https://www.hackerrank.com/ConelDev)
 [<img align="left" alt="leetcode" width="36px" height="36px" src="icons/leetcode.png" />](https://leetcode.com/ConalDev/)
+[<img align="left" alt="hackerrank" width="36px" height="36px" src="icons/HackerRank.png" />](https://www.hackerrank.com/ConelDev)
 <div align="right">
 <a href="https://app.daily.dev/conaldev"><img src="https://github.com/conaldev/conaldev/blob/master/devcard.svg" width="300" height="450" alt="conaldev's Dev Card"/></a>
 </div>
