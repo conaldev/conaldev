@@ -15,8 +15,6 @@
 <br /><br />
 
 
-https://minhconal.notion.site/
-
 
 <!--
 Here are some ideas to get you started:
